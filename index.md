@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Alyson29/Alyson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##欢迎来到
+您可以使用[GitHub上的编辑器]（https://github.com/Alyson29/Alyson.github.io/edit/master/index.md）维护和预览Markdown文件中网站的内容。我的 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,8 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```降价
+我的
+语法突出显示的代码块
 
 # Header 1
 ## Header 2
